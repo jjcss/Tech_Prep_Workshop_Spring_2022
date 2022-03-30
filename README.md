@@ -21,7 +21,7 @@ We hope that you all learned a few valuable skills Below you will find the Zoom 
 - [Best Youtuber to Understand Data Structures using Python](https://www.youtube.com/c/NeetCode)
 
 ### Next CSS Club Workshop
-[Javascript Workshop Zoom Link](https://jjay-cuny.zoom.us/meeting/register/tZMvduutrToqHtCxBD6SD1ToACxXHVypBlRH) <br>
+[Javascript Workshop Zoom Link](https://jjay-cuny.zoom.us/meeting/register/tZUkcOmupz8jH9C7rRhCO_vw62bka0-yjzwk) <br>
 <b>Description:</b> In depth coding explanation of certain Data Structures, followed by tips on how to approach data structure questions, and ending with practing a couple of LeetCode problems. <br>
 <b>Date:</b> March 29th, 2022 <br>
 <b>Time</b>: 1:40PM - 2:55PM <br>
