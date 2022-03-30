@@ -23,7 +23,7 @@ We hope that you all learned a few valuable skills Below you will find the Zoom 
 ### Next CSS Club Workshop
 [Javascript Workshop Zoom Link](https://jjay-cuny.zoom.us/meeting/register/tZUkcOmupz8jH9C7rRhCO_vw62bka0-yjzwk) <br>
 <b>Description:</b> In depth coding explanation of Javascript through the creation and implementation of a Guession Game (1-100). <br>
-<b>Date:</b> March 29th, 2022 <br>
+<b>Date:</b> April 12th, 2022 <br>
 <b>Time</b>: 1:40PM - 2:55PM <br>
 <b>Meeting ID</b>: 819 7069 4954 <br>
 <b>Passcode</b>: 279298 <br>
