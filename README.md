@@ -10,8 +10,8 @@ Thank you all for joining us for our **Technical Interview Prep Workshop on Marc
 
 We hope that you all learned a few valuable skills Below you will find the Zoom recording, and for additional resources on preparing for **Technical Interviews**, checkout out our presentation slides. Below is **information on our next workshop**, too. 
 
-### Zoom Recording
-[Zoom link]()
+### Dropbox Recording
+[Dropbox](https://www.dropbox.com/s/a5yjutyb7pf8lf6/CSS_Tech_Prep.mp4?dl=0)
 
 ### Presentation Slides
 [Technical Interview Prep](https://docs.google.com/presentation/d/1j5UsQTd63BJpnBejDXwZln_pUWCV04ewPMKWkdUIAdo/edit?usp=sharing)
