@@ -16,7 +16,7 @@ We hope that you all learned a few valuable skills Below you will find the Zoom 
 ### Presentation Slides
 [Technical Interview Prep](https://docs.google.com/presentation/d/1j5UsQTd63BJpnBejDXwZln_pUWCV04ewPMKWkdUIAdo/edit?usp=sharing)
 
-### Additonal Resources (most are in the slides)
+### Additional Resources (most are in the slides)
 - [LeetCode](https://leetcode.com/)
 - [Best Youtuber to Understand Data Structures using Python](https://www.youtube.com/c/NeetCode)
 
