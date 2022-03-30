@@ -8,7 +8,7 @@
 
 Thank you all for joining us for our **Technical Interview Prep Workshop on March, 29th, 2022**. For anyone who missed the meeting, we talked about what technical interviews are, how to prepare for them, what Big O Notation is and we also went over common algorithms like Binary Search and Sorting (through LeetCode).
 
-We hope that you all learned a few valuable skills Below you will find the Zoom recording, and for additional resources on preparing for **Technical Interviews**, checkout out our presentation slides. Below is **information on our next workshop** please head over to our club's Github Repository. 
+We hope that you all learned a few valuable skills Below you will find the Zoom recording, and for additional resources on preparing for **Technical Interviews**, checkout out our presentation slides. Below is **information on our next workshop**, too. 
 
 ### Zoom Recording
 [Zoom link]()
@@ -20,27 +20,10 @@ We hope that you all learned a few valuable skills Below you will find the Zoom 
 - [LeetCode](https://leetcode.com/)
 - [Best Youtuber to Understand Data Structures using Python](https://www.youtube.com/c/NeetCode)
 
-### Remove from Email Mailing List (fill out form below)
-[Click Here](https://docs.google.com/forms/d/e/1FAIpQLScM5GbCdIhCrFE1f4fBG3tzvpi2UhdJXgARlcwyCG9adim6rA/viewform)
-
-### Want to get in contact with us? 
-
-Email us or send us a message on discord. :hand:
-
-<p>
-Best, <br>
-
-
-<img src="https://i.imgur.com/JybZuXd.png" alt="drawing" width="100"/> Computer Science Society Club <br>
-</p>
-
-### Club Socials
-- [CSS Club Website](https://jjaycss.tech/)
-- [Club Github](https://github.com/jjcss)
-- [Club Discord](https://discord.gg/fJZKErEnPa)
-- Club Email: computersocjjay@gmail.com
-- [Club Instagram](https://www.instagram.com/jjccomputerscience/)
-- [Club LinkedIn](https://www.linkedin.com/in/cssclub/)
-- [Club Facebook](https://www.facebook.com/CSSJohnJay)
-- [Sign-up Form to receive club email updates](https://docs.google.com/forms/d/e/1FAIpQLSefHY3t8HakF0VvY5jLKppv0XIaU7a0ZdfbTkSHzs1ObCSgsA/viewform)
-- [Club linktree](https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Fjjaycss&e=ATOSfCgT69PGdXXE-N6W4LYPCy3d8xTToAElzBm0BrXLhBQG0W5_Lt95y8SU2e3VZYnFmbpSshqcN40Lof-07w&s=1)
+### Next CSS Club Workshop
+[Javascript Workshop Zoom Link](https://jjay-cuny.zoom.us/meeting/register/tZMvduutrToqHtCxBD6SD1ToACxXHVypBlRH) <br>
+<b>Description:</b> In depth coding explanation of certain Data Structures, followed by tips on how to approach data structure questions, and ending with practing a couple of LeetCode problems. <br>
+<b>Date:</b> March 29th, 2022 <br>
+<b>Time</b>: 1:40PM - 2:55PM <br>
+<b>Meeting ID</b>: 819 7069 4954 <br>
+<b>Passcode</b>: 279298 <br>
